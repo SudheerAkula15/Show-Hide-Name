@@ -1,0 +1,38 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+}
+.head {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 44px;
+}
+.name-container {
+  display: flex;
+  justify-content: space-between;
+}
+.single-name-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+}
+.button {
+  border-radius: 10px;
+  border: 0px;
+  width: 200px;
+  height: 50px;
+  color: #dd1264;
+}
+/*.name {
+  background-color: #fddddb;
+  margin: 5px;
+  width: 200px;
+  text-align: center;
+}
+*/
